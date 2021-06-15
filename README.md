@@ -1,0 +1,2 @@
+# youtubebot
+pip install selenium
